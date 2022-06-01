@@ -9,6 +9,3 @@
 - 🍿 Fun facts - what does your team eat for breakfast?
 - 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
-
-# Contributors
-![GitHub Contributors Image](https://contributors-img.web.app/image?repo=TeamAlphaTg/.github) 
