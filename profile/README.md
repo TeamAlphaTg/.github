@@ -1,13 +1,23 @@
 ## Hi there 👋
 
 
-**Here are some ideas to get you started:**
+Welcome to Alpha Botz organization on Github where we love all things open source
 
-- 🙋‍♀️ A short introduction - what is your organization all about?
-- 🌈 Contribution guidelines - how can the community get involved?
-- 👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-- 🍿 Fun facts - what does your team eat for breakfast?
-- 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+* 🙋‍♀️ Making Telegram & Whatsapp bots.
+* 🌈 10+ Alpha members active in open source.
+* 👩‍💻 10+ Telegram & Whatsapp bots.
+* 🧙 100+ Commits per month
+* 🎃 Based in Sri Lanka🌴
+
+---
+
+<br/>
+
+🌏 **Contact Us:** [Telegram](https://t.me/alphatm_botz)
+
+<br/>
+
+---
 
 
 - ## Languages and Tools
