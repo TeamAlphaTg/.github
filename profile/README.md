@@ -8,12 +8,12 @@ Welcome to Alpha Botz organization on Github where we love all things open sourc
 * 👩‍💻 10+ Telegram & Whatsapp bots.
 * 🧙 100+ Commits per month
 * 🎃 Based in Sri Lanka🌴
-
+* 🌏 **Contact Us:** [Telegram](https://t.me/alphatm_botz)
 ---
 
 <br/>
 
-🌏 **Contact Us:** [Telegram](https://t.me/alphatm_botz)
+
 
 <br/>
 
