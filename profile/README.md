@@ -10,15 +10,6 @@ Welcome to Alpha Botz organization on Github where we love all things open sourc
 * 🎃 Based in Sri Lanka🌴
 * 🌏 **Contact Us:** [Telegram](https://t.me/alphatm_botz)
 ---
-
-<br/>
-
-
-
-<br/>
-
-
----
 # MOST USED LANGUAGES
 ![NOICE](https://github-readme-stats.vercel.app/api/top-langs/?username=gishankrishka2&theme=dark&show_icons=true)
 ---
